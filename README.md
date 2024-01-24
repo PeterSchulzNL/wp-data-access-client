@@ -1,1 +1,1 @@
-# WP-Data-Access-Client
+# WP Data Access client free edition
